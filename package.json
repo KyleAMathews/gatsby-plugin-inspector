@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-plugin-inspector",
+  "version": "1.0.0",
+  "description": "Use Node.js inspector API to sample CPU/memory of a Gatsby build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleAMathews/gatsby-plugin-inspector.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "inspector"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/gatsby-plugin-inspector/issues"
+  },
+  "homepage": "https://github.com/KyleAMathews/gatsby-plugin-inspector#readme",
+  "dependencies": {
+    "inspector-api": "^1.2.1"
+  }
+}
