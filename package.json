@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-inspector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use Node.js inspector API to sample CPU/memory of a Gatsby build",
   "main": "index.js",
   "scripts": {
